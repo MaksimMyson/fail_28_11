@@ -4,7 +4,7 @@
     <Filter Include="main">
       <UniqueIdentifier>{0ea477ac-78c7-486b-8d94-bd08e86235e2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="TextProcessor">
+    <Filter Include="FileCopy">
       <UniqueIdentifier>{63a906b1-8eae-4870-ad80-ce2bca054662}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -12,13 +12,13 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="TextProcessor.cpp">
-      <Filter>TextProcessor</Filter>
+    <ClCompile Include="FileCopy.cpp">
+      <Filter>FileCopy</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TextProcessor.h">
-      <Filter>TextProcessor</Filter>
+    <ClInclude Include="FileCopy.h">
+      <Filter>FileCopy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
