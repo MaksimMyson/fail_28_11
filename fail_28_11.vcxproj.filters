@@ -12,12 +12,12 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="FileCopy.cpp">
+    <ClCompile Include="TextComparator.cpp">
       <Filter>FileCopy</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FileCopy.h">
+    <ClInclude Include="TextComparator.h">
       <Filter>FileCopy</Filter>
     </ClInclude>
   </ItemGroup>
