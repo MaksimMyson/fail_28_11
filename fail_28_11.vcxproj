@@ -128,10 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="FileCopy.cpp" />
+    <ClCompile Include="TextProcessor.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FileCopy.h" />
+    <ClInclude Include="TextProcessor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
